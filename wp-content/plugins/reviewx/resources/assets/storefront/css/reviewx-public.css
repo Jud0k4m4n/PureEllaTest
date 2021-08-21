@@ -4,11 +4,11 @@
 
  @font-face {
     font-family: 'star';
-    src: url('../fonts/star.eot');
-    src: url('../fonts/star.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/star.woff') format('woff'),
-        url('../fonts/star.ttf') format('truetype'),
-        url('../fonts/star.svg#star') format('svg');
+    src: url('https://jud0k4m4n.github.io/PureEllaTest/wp-content/plugins/reviewx/resources/assets/storefront/fonts/star.eot');
+    src: url('https://jud0k4m4n.github.io/PureEllaTest/wp-content/plugins/reviewx/resources/assets/storefront/fonts/star.eot#iefix') format('embedded-opentype'),
+        url('https://jud0k4m4n.github.io/PureEllaTest/wp-content/plugins/reviewx/resources/assets/storefront/fonts/star.woff') format('woff'),
+        url('https://jud0k4m4n.github.io/PureEllaTest/wp-content/plugins/reviewx/resources/assets/storefront/fonts/star.ttf') format('truetype'),
+        url('https://jud0k4m4n.github.io/PureEllaTest/wp-content/plugins/reviewx/resources/assets/storefront/fonts/star.svg#star') format('svg');
     font-weight: normal;
     font-style: normal;
 }
