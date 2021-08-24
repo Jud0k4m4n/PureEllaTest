@@ -568,6 +568,8 @@
 /wp-content/uploads\elementor\css\global.css
 /wp-content/uploads\elementor\css\post-12.css
 /wp-content/uploads\elementor\css\post-121.css
+/wp-content/uploads\elementor\css\post-153.css
+/wp-content/uploads\elementor\css\post-157.css
 /wp-content/uploads\elementor\css\post-61.css
 /wp-content/uploads\elementor\css\post-95.css
 /wp-content/uploads\essential-addons-elementor\734e5f942.min.css
